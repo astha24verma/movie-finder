@@ -1,4 +1,4 @@
-#Movixer - Find your movie
+# Movixer - Find your movie
 
 # Getting Started with Create React App
 
