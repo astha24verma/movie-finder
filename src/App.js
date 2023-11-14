@@ -3,10 +3,10 @@ import './App.css';
 import { useEffect, useState } from 'react';
 import MovieCard from './MovieCard';
 
-// 1d32827d
-// http://www.omdbapi.com/?i=tt3896198&apikey=1d32827d
+// 
+// http://www.omdbapi.com/?i=tt3896198&apikey=
 
-const API_URI = 'http://www.omdbapi.com/?apikey=1d32827d';
+const API_URI = 'http://www.omdbapi.com/?apikey=';
 
 
 function App() {
