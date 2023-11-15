@@ -4,9 +4,9 @@ import { useEffect, useState } from 'react';
 import MovieCard from './MovieCard';
 
 // 
-// http://www.omdbapi.com/?i=tt3896198&apikey=
+// http://www.omdbapi.com/?i=tt3896198&apikey=YourApiKey
 
-const API_URI = 'http://www.omdbapi.com/?apikey=';
+const API_URI = 'http://www.omdbapi.com/?apikey=YourApiKey';
 
 
 function App() {
